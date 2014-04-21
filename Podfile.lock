@@ -1,0 +1,10 @@
+PODS:
+  - FBDigitalFont (0.0.4)
+
+DEPENDENCIES:
+  - FBDigitalFont
+
+SPEC CHECKSUMS:
+  FBDigitalFont: faec5b8f97f0f7858b864812315a8aa519f275d2
+
+COCOAPODS: 0.32.1
